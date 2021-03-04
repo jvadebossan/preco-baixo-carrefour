@@ -9,7 +9,7 @@ Quando isto acontecer, você receberá uma notificação por email ou sms
 `pip install smtplib`
 
 **Futuramente:**
-- [] notificação por WhatsApp
-- [] suporte a outras lojas
+- [ ] notificação por WhatsApp
+- [ ] suporte a outras lojas
 
 Feito por: https://github.com/jvadebossan
