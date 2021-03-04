@@ -5,8 +5,10 @@ Quando isto acontecer, você receberá uma notificação por email ou sms
 
 
 requisitos:
+
 pip install bs4
 
 pip install smtplib
+
 
 feito por: https://github.com/jvadebossan
